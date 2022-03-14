@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm Clément</h2>
 
-<!--
-**clementgateaud/clementgateaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech guy with a marketing background and a keen interest interest in design.
 
-Here are some ideas to get you started:
+I love:<br />
+✅️ Working on projects that are obsessed with user experience<br />
+✅️ Developing interfaces with a pixel-perfect design<br />
+✅️ Writing the most efficient and maintainable code possible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My stack:<br />
+🎨 Front-End: JavaScript ES6, 🔜 React, HTML, CSS, Bootstrap, Figma<br />
+🔌 Back-End: Ruby, Ruby on Rails, SQL<br />
+🔧 Tools: git, GitHub, Heroku
+
+If I'm not coding right now, I'm probably listening to a podcast 🎙, following a stream on Twitch 📺 or watching Formula 1 🏎.
