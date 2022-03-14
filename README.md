@@ -12,6 +12,6 @@ My stack:<br />
 🔌 Back-End: Ruby, Ruby on Rails, SQL<br />
 🔧 Tools: git, GitHub, Heroku
 
-If I'm not coding right now, I'm probably listening to a podcast 🎙, following a stream on Twitch 📺 or watching Formula 1 🏎.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementgateaud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+If I'm not coding right now, I'm probably listening to a podcast 🎙, following a stream on Twitch 📺 or watching Formula 1 🏎.
