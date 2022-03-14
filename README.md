@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Clément</h2>
+<h2 align="center">Hi, I'm Clément 👋</h2>
 
 I'm a tech guy with a marketing background and a keen interest interest in design.
 
