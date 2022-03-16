@@ -6,7 +6,7 @@ I love:<br />
 ✅️ Writing the most efficient and maintainable code possible
 
 My stack:<br />
-🎨 Front-End: JavaScript ES6, 🔜 React, HTML, CSS, Bootstrap, Figma<br />
+🎨 Front-End: JavaScript ES6 (Learning React...), HTML, CSS, Bootstrap, Figma<br />
 🔌 Back-End: Ruby, Ruby on Rails, SQL<br />
 🔧 Tools: git, GitHub, Heroku
 
