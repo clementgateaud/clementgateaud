@@ -1,7 +1,7 @@
 I'm a tech guy with a marketing background and a keen interest interest in design.
 
 My stack:<br />
-🎨 Front-End: JavaScript ES6, React JS, HTML, CSS, Bootstrap, Figma<br />
+🎨 Front-End: React JS, JavaScript ES6, HTML, CSS, Bootstrap, Figma<br />
 🔌 Back-End: Ruby, Ruby on Rails, SQL<br />
 🔧 Tools: git, GitHub, Heroku
 
