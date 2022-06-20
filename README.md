@@ -6,5 +6,3 @@ My stack:<br />
 🔧 Tools: git, GitHub, Heroku
 
 If I'm not coding right now, I'm probably listening to a podcast 🎙, following a stream on Twitch 📺 or watching Formula 1 🏎.
-
-My portfolio: https://troopl.com/clementgateaud
